@@ -1,9 +1,8 @@
+[![](https://img.shields.io/badge/app-final-brightgreen.svg)](https://github.com/fangjm5/TutorialAp)
+
 # tutorial App Based on C2C mode
 triple go
 
-# Attention
-### 本项目完整版已获版权保护，源代码仅供学习使用，若商用将侵权
-### 联系交流方式：sysuygm@163.com
 
 # 效果展示
 1. 登录注册界面
