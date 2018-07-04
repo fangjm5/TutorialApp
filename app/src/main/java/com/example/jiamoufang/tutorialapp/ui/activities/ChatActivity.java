@@ -504,7 +504,6 @@ public class ChatActivity extends ParentWithNaviActivity implements MessageListH
         sendLocationMessage();
     }
 
-
     /**
      * 根据是否点击笑脸来显示文本输入框的状态
      *
