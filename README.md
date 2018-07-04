@@ -6,7 +6,7 @@
 
 # 相关制品
 
-- [安装包与《安装部署说明》](http://www.google.com)
+- [安装包与《安装部署说明》](https://github.com/fangjm5/TutorialApp/blob/master/doc/app-debug.zip)
 
 - [用户手册](https://github.com/fangjm5/TutorialApp/blob/master/doc/user-guide.md)
 
