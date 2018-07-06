@@ -130,7 +130,7 @@
 
 ##### 寻找老师用例的活动图
 
-<img width='860px' height='400px' src='./15332008/find_teacher.png'>
+<img width='860px' height='400px' src='./15332008/find_teacher.png' alt='寻找老师用例的活动图' />
 
 #### 个人简历管理
 
@@ -147,7 +147,7 @@
 
 ##### 个人简历修改的活动图
 
-<img width='860px' height='400px' src='./15332008/resume.png'>
+<img width='860px' height='400px' src='./15332008/resume.png' alt='个人简历修改的活动图' />
 
 #### 寻找学生
 
@@ -164,7 +164,7 @@
 
 ##### 寻找学生的活动图
 
-<img width='860px' height='400px' src='./15332008/find_student.png'>
+<img width='860px' height='400px' src='./15332008/find_student.png'  alt='寻找学生的活动图'/>
 
 #### 订单管理
 
@@ -181,7 +181,7 @@
 
 ##### 订单管理的活动图
 
-<img width='860px' height='400px' src='./15331082/order_manage.PNG'>
+<img width='860px' height='400px' src='./15331082/order_manage.png' alt='订单管理的活动图'/>
 
 #### 广告栏管理
 
@@ -198,7 +198,7 @@
 
 ##### 广告栏管理的活动图
 
-<img width='860px' height='400px' src='./15331082/bar_manage.PNG'>
+<img width='860px' height='400px' src='./15331082/bar_manage.png' alt='广告栏管理的活动图'/>
 
 #### 用户管理
 
