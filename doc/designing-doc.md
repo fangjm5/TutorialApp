@@ -79,7 +79,7 @@
 
 ##### 消息发送的活动图
 
-<img width='640px' height='400px' src='./15332015/msg.PNG'>
+<img width='640px' height='400px' src='./15332015/msg.png'>
 
 #### 个人微朋友圈管理
 
@@ -96,7 +96,7 @@
 
 ##### 个人微朋友圈管理的活动图
 
-<img width='640px' height='400px' src='./15332015/post.PNG'>
+<img width='640px' height='400px' src='./15332015/post.png'>
 
 #### 个人信息管理
 
@@ -113,7 +113,7 @@
 
 ##### 个人信息修改的活动图
 
-<img width='640px' height='400px' src='./15332015/info.PNG'>
+<img width='640px' height='400px' src='./15332015/info.png'>
 
 #### 寻找老师
 
@@ -215,7 +215,7 @@
 
 ##### 用户管理的活动图
 
-<img width='860px' height='400px' src='./15331082/user_manage.PNG'>
+<img width='860px' height='400px' src='./15331082/user_manage.png'>
 
 #### 应用信息管理
 
@@ -232,7 +232,7 @@
 
 ##### 应用信息修改的活动图
 
-<img width='860px' height='400px' src='./15331082/app_info.PNG'>
+<img width='860px' height='400px' src='./15331082/app_info.png'>
 
 ### 2.2.4 补充规约
 
