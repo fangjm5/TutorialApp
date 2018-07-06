@@ -181,7 +181,7 @@
 
 ##### 订单管理的活动图
 
-<img width='860px' height='400px' src='./15331082/order_manage.png'>
+<img width='860px' height='400px' src='./15331082/order_manage.PNG'>
 
 #### 广告栏管理
 
@@ -198,7 +198,7 @@
 
 ##### 广告栏管理的活动图
 
-<img width='860px' height='400px' src='./15331082/bar_manage.png'>
+<img width='860px' height='400px' src='./15331082/bar_manage.PNG'>
 
 #### 用户管理
 
@@ -215,7 +215,7 @@
 
 ##### 用户管理的活动图
 
-<img width='860px' height='400px' src='./15331082/user_manage.png'>
+<img width='860px' height='400px' src='./15331082/user_manage.PNG'>
 
 #### 应用信息管理
 
@@ -232,7 +232,7 @@
 
 ##### 应用信息修改的活动图
 
-<img width='860px' height='400px' src='./15331082/app_info.png'>
+<img width='860px' height='400px' src='./15331082/app_info.PNG'>
 
 ### 2.2.4 补充规约
 
