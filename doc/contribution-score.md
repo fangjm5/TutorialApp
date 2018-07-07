@@ -13,4 +13,4 @@
 
 ### Remark
 
-**提交记录中的用户jmFang与fangjm5都是小组成员`方佳谋`，项目原先在jmFang用户的GiHub上后转移到fangjm5。**
+**提交记录中的用户jmFang与fangjm5都是小组成员`方佳谋`，项目原先在jmFang用户的GitHub上后转移到fangjm5。**
