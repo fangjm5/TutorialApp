@@ -2,7 +2,7 @@
 
 # Tutorial App
 
-中山大学2015级软件工程综合实训作品，基于手机Android系统开发的一个简单的家教APP
+基于手机Android系统开发的一个简单的家教APP
 
 # 相关制品
 
@@ -15,5 +15,3 @@
 - [软件设计文档](https://github.com/fangjm5/TutorialApp/blob/master/doc/designing-doc.md)
 
 - [测试文档](https://github.com/fangjm5/TutorialApp/blob/master/doc/unit-testing.md)
-
-- [小组分工与贡献率说明](https://github.com/fangjm5/TutorialApp/blob/master/doc/contribution-score.md)
